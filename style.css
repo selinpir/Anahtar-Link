@@ -1,0 +1,265 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+ body {
+    background-color:#fffaf2;
+  } 
+  
+/* navbar */
+header{
+    background-color:black ;
+    padding: 20px 25px;
+}
+
+nav{
+    display: inline-block;
+    width: calc(100%-103px);
+    text-align: right;
+}
+
+.selin{
+color: white;
+text-decoration:none ;
+font-weight: bold;
+font-size: 22px;
+
+}
+
+
+/* patika */
+.btn-s1{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 5%;
+    background-color:#286143;
+    color: #fff;
+    padding: 25px 25px;
+    font-size: 20px;
+    border-radius: 6px;
+    transition: color 1s;
+    text-decoration: none;
+}
+
+.btn-s1:hover{
+    color:black;
+}
+/* target */
+.btn-s2{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 10%;
+    background-color:#d6c7ff;
+    color: #fff;
+    padding: 25px 25px;
+    font-size: 20px;
+    border-radius: 6px;
+    transition: color 1s;
+    text-decoration: none;
+}
+
+.btn-s2:hover{
+    color:black;
+}
+
+/* UDEMY */
+.btn-s3{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 5%;
+    background-color:#55a189;
+    color: #fff;
+    padding: 25px 25px;
+    font-size: 20px;
+    border-radius: 6px;
+    transition: color 1s;
+    text-decoration: none;
+}
+
+.btn-s3:hover{
+    color:black;
+}
+
+/* geri dön */
+.btn-s4{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 10%;
+    background-color:#55959e;
+    color: #fff;
+    padding: 25px 25px;
+    font-size: 20px;
+    border-radius: 6px;
+    transition: color 1s;
+    text-decoration: none;
+}
+
+.btn-s4:hover{
+    color:black;
+}
+/* GLOBAL AI */
+.btn-s5{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 10%;
+    background-color:#377661;
+    color: #fff;
+    padding: 25px 25px;
+    font-size: 20px;
+    border-radius: 6px;
+    transition: color 1s;
+    text-decoration: none;
+}
+
+.btn-s5:hover{
+    color:black;
+}
+/* BTK */
+.btn-s6{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 10%;
+    background-color: #0f4446;
+    color: #fff;
+    padding: 25px 25px;
+    font-size: 20px;
+    border-radius: 6px;
+    transition: color 1s;
+    text-decoration: none;
+}
+
+.btn-s6:hover{
+    color:black;
+}
+
+/* YOUTUBE */
+.btn-s7{
+    display: inline-block;
+    margin-left: 55px;
+    margin-top: 5%;
+    background-color:#15605a;
+    color: #fff;
+    padding: 25px 25px;
+    font-size: 20px;
+    border-radius: 6px;
+    transition: color 1s;
+    text-decoration: none;
+}
+
+.btn-s7:hover{
+    color:black;
+}
+
+/* YOUTUBE */
+.btn-s8{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 10%;
+    background-color:#93DBB8;
+    color: #fff;
+    padding: 25px 25px;
+    font-size: 20px;
+    border-radius: 6px;
+    transition: color 1s;
+    text-decoration: none;
+}
+
+.btn-s8:hover{
+    color:black;
+}
+/* 2.derece */
+.btn-s9{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 10%;
+    background-color:#8d8ce3;
+    color: #fff;
+    padding: 25px 25px;
+    font-size: 20px;
+    border-radius: 6px;
+    transition: color 1s;
+    text-decoration: none;
+}
+
+.btn-s9:hover{
+    color:black;
+}
+.btn-s10{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 10%;
+    background-color: #505790;
+    color: #fff;
+    padding: 25px 25px;
+    font-size: 20px;
+    border-radius: 6px;
+    transition: color 1s;
+    text-decoration: none;
+}
+
+.btn-s10:hover{
+    color:black;
+}
+/* web */
+.btn-s11{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 10%;
+    background-color: #1a687f;
+    color: #fff;
+    padding: 25px 25px;
+    font-size: 20px;
+    border-radius: 6px;
+    transition: color 1s;
+    text-decoration: none;
+}
+
+.btn-s11:hover{
+    color:black;
+}
+/* dergi */
+
+.btn-s12{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 10%;
+    background-color: #278700;
+    color: #fff;
+    padding: 25px 25px;
+    font-size: 20px;
+    border-radius: 6px;
+    transition: color 1s;
+    text-decoration: none;
+}
+
+.btn-s12:hover{
+    color:black;}
+
+    
+.btn-s13{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 10%;
+    background-color: #95305f;
+    color: #fff;
+    padding: 25px 25px;
+    font-size: 20px;
+    border-radius: 6px;
+    transition: color 1s;
+    text-decoration: none;
+}
+
+.btn-s13:hover{
+    color:#000000;}
+
+
+    .photo {
+        width: 100%;
+        height: auto;
+        max-width: 200px;
+        display: block;
+        margin: 0 auto;
+      }
+      
